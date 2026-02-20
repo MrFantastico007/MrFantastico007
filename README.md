@@ -46,8 +46,11 @@ Focused on fundamentals, clean code, and consistent growth.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrFantastico007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Dev Quote  
+
+<p align="center">
+  <i>“There’s no place like 127.0.0.1.”</i>
+</p>
 
 ---
 
