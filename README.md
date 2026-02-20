@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Ankush Samanta  
 
-<img align="right" alt="Zoro" width="280" src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif">
+<img align="right" alt="Zoro" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RwZHFvbGVtdTZzaWsyM29vaXdzbHpjbGVzaGVhdnB5b3V6OThsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1rFG5pGCiUixq/giphy.gif">
 
 💻 Full Stack Developer | 🎓 Student | 🧠 Always Learning  
 
