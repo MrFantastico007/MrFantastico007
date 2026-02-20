@@ -49,10 +49,8 @@ Focused on fundamentals, clean code, and consistent growth.
 ## ✍️ Dev Quote  
 
 <p align="center">
-  <i>“There’s no place like 127.0.0.1.”</i>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF4B2B&center=true&vCenter=true&width=900&lines=There’s+no+place+like+127.0.0.1." />
 </p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=MrFantastico007&icon=0&color=0)](https://visitcount.itsvg.in)
 
