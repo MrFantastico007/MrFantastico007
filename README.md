@@ -44,7 +44,9 @@ Focused on fundamentals, clean code, and consistent growth.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFantastico007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrFantastico007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MrFantastico007&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ## ✍️ Dev Quote  
 
