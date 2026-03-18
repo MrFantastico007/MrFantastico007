@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: githubocto/pacman-contribution-graph@main
+      - uses: Platane/snk@v3
         with:
           github_user_name: MrFantastico007
+          outputs: |
+            dist/pacman.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
