@@ -5,16 +5,19 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 THIS FIXES ERROR 128
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate animation
+        uses: Platane/snk@v3
         with:
           github_user_name: MrFantastico007
-          outputs: |
-            dist/pacman.svg?palette=github-dark
+          outputs: dist/pacman.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
