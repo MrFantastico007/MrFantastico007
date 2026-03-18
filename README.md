@@ -48,6 +48,12 @@ Focused on fundamentals, clean code, and consistent growth.
 <img src="https://github-profile-trophy.vercel.app/?username=MrFantastico007&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
+## 👾 Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrFantastico007/MrFantastico007/output/pacman.svg" />
+</p>
+
 ## ✍️ Dev Quote  
 
 <p align="center">
