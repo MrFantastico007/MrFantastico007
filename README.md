@@ -1,5 +1,5 @@
-# 💫 About Me
-## 👋 Hi, I'm Ankush Samanta  
+# 💫 About Me:
+## 👋 Hi, I'm Ankush Samanta.
 
 <img align="right" alt="Zoro" width="280" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJsMDNwajRodnk3Y2FrdndmNHQ3ODRjcDB4eTYycDBlZ2d0cm8zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YRThiAEEYVNtC5acLO/giphy.gif">
 
