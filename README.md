@@ -39,11 +39,16 @@ Focused on fundamentals, clean code, and consistent growth.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrFantastico007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrFantastico007&theme=radical)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFantastico007&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=MrFantastico007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img src="https://streak-stats.demolab.com?user=MrFantastico007&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFantastico007&layout=compact&theme=radical"/>
+
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
