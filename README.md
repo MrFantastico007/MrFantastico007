@@ -41,13 +41,15 @@ Focused on fundamentals, clean code, and consistent growth.
 # 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrFantastico007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrFantastico007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MrFantastico007&theme=radical"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=MrFantastico007&theme=radical" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrFantastico007&layout=compact&theme=radical" />
-
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrFantastico007&layout=compact&theme=radical"/>
 </p>
 
 ## 🏆 GitHub Trophies
