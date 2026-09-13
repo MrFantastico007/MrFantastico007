@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=I'm+gonna+be+the+Full+Stack+King!;There's+no+place+like+127.0.0.1;A+real+Dev+never+stops+learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=As+long+as+you're+alive,+there+are+infinite+chances.;There's+no+place+like+127.0.0.1;A+real+Dev+never+stops+learning." />
 </div>
 
 <br>
