@@ -77,7 +77,7 @@ Focused on fundamentals, clean code, and consistent growth.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrFantastico007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=38BDF8&text_color=90E0EF&ring_color=38BDF8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MrFantastico007&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&icon_color=38BDF8&text_color=90E0EF&ring_color=38BDF8" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFantastico007&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=38BDF8&text_color=90E0EF" width="30%"/>
 
 <br>
@@ -117,9 +117,7 @@ Focused on fundamentals, clean code, and consistent growth.
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MrFantastico007&icon=0&color=6" alt="visitor count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MrFantastico007&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
 </p>
 
 <!-- Proudly redesigned with a Straw Hat theme 🏴‍☠️ -->
